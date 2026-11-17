@@ -1,0 +1,1 @@
+{"description":"A GitHub-compatible git forge: git smart HTTP (protocol v0 and v2), the REST v3 API, GraphQL v4 and an MCP endpoint, in one dependency-free Node process.","engines":{"node":">=22.18"},"license":"MIT","name":"liuli-forge","private":true,"type":"module","version":"1.0.0"}
